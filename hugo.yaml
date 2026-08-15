@@ -91,6 +91,8 @@ params:
         url: about/
       - name: Posts
         url: posts/
+      - name: EchoLink
+        url: echolink/
     assets:
       disableHLJS: true
       favicon: "favicon.png"  
