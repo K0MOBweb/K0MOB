@@ -1,8 +1,9 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 #baseURL: "http://www.tricountymoarc.org"
-baseURL: "https://k0mob.github.io/K0MOB/"
+#baseURL: "https://k0mob.github.io/K0MOB/"
 #baseURL: "localhost:1313/"
+baseURL: "http://www.tricountymoarc.org/"
 title: K0MOB
 copyright: "© 2026 K0MOB. All rights reserved."
 theme: [PaperMod]
@@ -101,7 +102,7 @@ params:
     - name: "Pota"
       url: "https://pota.app/#/profile/K0MOB"
   editPost:
-    URL: "https://github.com/K0MOB/K0MOB/edit/suggested/content" # edit URL
+    URL: "https://github.com/K0MOBweb/K0MOB/edit/suggested/content" # edit URL
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
