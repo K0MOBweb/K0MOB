@@ -81,7 +81,7 @@ params:
   profileMode:
     enabled: true
     title: "Welcome to the tri-county amateur radio club website"
-    subtitle: "Next Meeting: Tuesday, August 25, 2026 6:30 PM, This meeting will include voting for the club officers"
+    subtitle: "Next Meeting: Tuesday, September 15, 2026 6:30 PM"
     imageUrl: "images/Tri.jpg"
     imageTitle: "Tri County Amateur Radio Club"
     # imageWidth: 120
