@@ -40,10 +40,15 @@ More information on testing at  [MACON COUNTY ARC WEBSITE](https://n0pr.org)
 ## Board
 
 - President Dan-W0PN
-- Vice Pres Doug Buckman
+- Vice Pres Doug-KF0YYL
 - Treasurer Chris-KFØGUS
-- Secretary Chris-KFØGUS
+- Secretary -Selena-KF0OUC
 - Repeater Trustee Chris-KFØGUS 
-- Emergency Services Coordinator-ARES-Chris-KFØGUS
-- Assistant Emergency Services Coordinator-ARES-Dan-WØPN
+- Emergency Services Coordinator for Chariton County MO ARES-Christopher-KC0WEI
+- Emergency Services Coordinator for Howard County MO ARES-OPEN
+- Emergency Services Coordinator for Randolph County MO ARES-Chris-KFØGUS
+- Assistant Emergency Services Coordinator for Charition County MO ARES-OPEN
+- Assistant Emergency Services Coordinator for Howard County MO ARES-OPEN
+- Assistant Emergency Services Coordinator for Randolph County MO ARES-Dan-WØPN
+- Assistant Emergency Services Coordinator for Randolph County MO ARES-PENDING APROVAL APPLICATION
  
