@@ -103,6 +103,8 @@ params:
       url: "https://www.facebook.com/61591280975035/"
     - name: "Pota"
       url: "https://pota.app/#/profile/K0MOB"
+    - name: "QRZ"
+      url: "https://qrz.com/db/K0MOB"
   editPost:
     URL: "https://github.com/K0MOBweb/K0MOB/edit/suggested/content" # edit URL
     Text: "Suggest Changes" # edit text
