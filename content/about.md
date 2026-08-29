@@ -18,7 +18,7 @@ Also With our (ARES) Amateur Radio Emergency Services Group.
 - The Tri county ARC now has a (TRI COUNTY ARC) Slack channel and its available to all paid club memberships for access.
 - For Any questions on how to join our TRI COUNTY Ham radio club or questions or to join us... please contact Chris-KFØGUS via Email kf0gus@hotmail.com our treasure [[[OR]]] Dan-WØPN via email dan.w0pn@gmail.com our President.
 - We are also starting the process to offer once again F.C.C. Ham Radio License exam testing offered to members and non-members to the club. Please stand by for a update on more information here in 2026 as it comes available.
-- Our weather spotter training class will be available again next spring (March) of 2027, date and location TBD please stay tuned to this page for more updates as they become available next yea-
+- Our weather spotter training class will be available again next spring (March) of 2027, date and location TBD please stay tuned to this page for more updates as they become available next year
 
 ## License
 
