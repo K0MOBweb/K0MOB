@@ -55,5 +55,5 @@ More information on testing at  [MACON COUNTY ARC WEBSITE](https://n0pr.org)
 - Assistant Emergency Services Coordinator for Charition County MO ARES-OPEN
 - Assistant Emergency Services Coordinator for Howard County MO ARES-OPEN
 - Assistant Emergency Services Coordinator for Randolph County MO ARES-Dan-WØPN
-- Assistant Emergency Services Coordinator for Randolph County MO ARES-PENDING APROVAL APPLICATION
+- Assistant Emergency Services Coordinator for Randolph County MO ARES-Rick-KFØARO
  
