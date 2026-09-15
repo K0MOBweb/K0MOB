@@ -7,7 +7,7 @@ Our QRZ page [K0MOB QRZ](https://www.qrz.com/db/K0MOB)
 - THE KØMOB Moberly 2 METER NET AT 8 PM EVERY THURSDAY- JOIN US! any current F.C.C. license holders @ 147.090 + 0.6 offset PL Tone Squelch 127.3 Our weekly net control is Chris-KFØGUS or one of our Alternate Backup Operators.
 - Our Club has 2 Repeaters in use, 2-Meter 147.090 + 0.6 offset PL Tone Squelch 127.3 and 70-cm 443.975 5.0 offset NO PL Tone yet but in progress.
 - ECHOLINK NODE= KØMOB-R for our 2 Meter Repeater LINK & NET
-- The next TRI-COUNTY AMATEUR RADIO CLUB meeting is on September 15th 2026 @ 6:30PM all are welcome. Please join us.... The counties we serve in our membership are Randolph, Charition, Howard in Missouri
+- The next TRI-COUNTY AMATEUR RADIO CLUB meeting is on October 20th 2026 @ 6:30PM all are welcome. Please join us.... The counties we serve in our membership are Randolph, Charition, Howard in Missouri
 Also With our (ARES) Amateur Radio Emergency Services Group.
 @ this meeting address
 1301 E Logan St, Moberly, MO 65270
